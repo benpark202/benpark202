@@ -87,8 +87,6 @@ $ initiate desktop/benpark202/my-projects
 
 # github
 
-# vscode
-
 ```
 <br>
 </br>
