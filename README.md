@@ -11,7 +11,7 @@
 > Welcome to my Github Profile :-)
 
 
-  # I am a high school senior passionate about all things technology and enjoy making apps.
+  # I am a high school senior passionate about all things technology and building random things that come to mind!
 
   # When I'm not programming, I enjoy photography and running!  
 
