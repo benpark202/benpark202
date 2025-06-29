@@ -1,6 +1,6 @@
 <br>
 </br>
-<h1 align="center">👋 Greetings, I'm Ben ☕</h1>
+<h1 align="center">👋 Hello! I'm Ben ☕</h1>
 <h3 align="center">⚙️ Full stack developer and web designer 🖌️</h3>
 </p>
 <br>
