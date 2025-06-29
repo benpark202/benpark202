@@ -65,7 +65,7 @@ $ initiate desktop/benpark202/my-projects
 
 # [===========================] (100%)
 
-> Loaded (1 of 1)
+> Loaded (2 of 2)
 
 
   # political-industrialization-ap-world
