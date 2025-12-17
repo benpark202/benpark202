@@ -1,12 +1,13 @@
 <br>
-</br>
-![Github Banner]([https://github.com/tograh/testrepository/3DTest.png](https://i.ibb.co/Tx0rMxd7/Untitled-presentation-2-modified.png))
 
+![Alt text goes here](https://i.postimg.cc/ydd8b69y/Untitled-presentation-modified.png)
+<br>
+<br>
+<br>
 <h1 align="center">👋 Hi, I'm Ben ☕</h1>
 <h3 align="center">⚙️ Full stack developer and web designer 🖌️</h3>
 </p>
 <br>
-</br>
 
 ```bash
 
