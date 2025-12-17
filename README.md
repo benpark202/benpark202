@@ -1,6 +1,8 @@
 <br>
 </br>
-<h1 align="center">👋 Hello! I'm Ben ☕</h1>
+![Github Banner]([https://github.com/tograh/testrepository/3DTest.png](https://i.ibb.co/Tx0rMxd7/Untitled-presentation-2-modified.png))
+
+<h1 align="center">👋 Hi, I'm Ben ☕</h1>
 <h3 align="center">⚙️ Full stack developer and web designer 🖌️</h3>
 </p>
 <br>
