@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-<h1 align="center">👋 Hi, I'm Ben ☕</h1>
+<h1 align="center">🪴 Hi, I'm Ben ☕</h1>
 <h3 align="center">⚙️ Full stack developer and web designer 🖌️</h3>
 </p>
 <br>
@@ -22,7 +22,7 @@
 <br>
 </br>
 
-## 🌳  A little about what I do:
+## 🌳  Skills:
 
 ```bash
 $ initiate skills
