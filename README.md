@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-<h1 align="center">🪴 Hi, I'm Ben ☕</h1>
+<h1 align="center">🪴 Hi, I'm Ben 🍂</h1>
 <h3 align="center">⚙️ Full stack developer and web designer 🖌️</h3>
 </p>
 <br>
@@ -20,9 +20,9 @@
 
 ```
 <br>
-</br>
+<br>
 
-## 🌳  Skills:
+## ☕️  Skills:
 
 ```bash
 $ initiate skills
@@ -56,29 +56,18 @@ $ initiate skills
 
 ```
 
-
 <br>
-</br>
+<br>
 
-
-## 💡  Recent Work
+## 🧑‍💻 Current Work
 
 ```bash
-$ initiate desktop/benpark202/my-projects
 
-# [===========================] (100%)
-
-> Loaded (2 of 2)
-
-
-  # political-industrialization-ap-world
-
-  # wpilib-docs
+# wmata transit app
 
 ```
 <br>
 </br>
-
 
 ## 🔨 Tools
 
