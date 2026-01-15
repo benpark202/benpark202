@@ -1,5 +1,7 @@
-<br>
 ![Banner](https://github.com/benpark202/benpark202draft/blob/main/BPBannerEmotes%202.png?raw=true)
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
