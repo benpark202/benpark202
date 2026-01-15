@@ -12,6 +12,7 @@
 
 $ initiate about
 
+# [========================----] (87.50%)
 
 # i am a high school senior passionate about all things coding and apple hardware/software systems.
 
@@ -24,26 +25,25 @@ $ initiate about
 ```bash
 $ initiate tech stack
 
-# [===========================] (87.50%)
+# [============================] (100.00%)
 
-> Languages
+>  languages
 
   # html/css/js
-  # typeScript
+  # typescript
   # swift
-  # javaScript
   # java
   # python
 
 
 >  frameworks 
 
-  # react
-  # tailwind
-  # swiftUI
-  # uikit
   # node.js
+  # swiftui
+  # uikit
+  # react
   # flask
+  # tailwind
 
 
 >  tools
