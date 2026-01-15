@@ -3,80 +3,67 @@
 <br>
 <br>
 <br>
-<h1 align="center">Hi, I'm Ben </h1>
-<h3 align="center">⚙️ Full stack developer and web designer 🖌️</h3>
+<h1 align="center">hi, i'm ben </h1>
+<h3 align="center">⚙️ full stack developer and web designer 🖌️</h3>
 </p>
 <br>
 
 ```bash
 
-> Welcome to my Github Profile :-)
+$ initiate about
 
 
-  # I am a high school senior passionate about all things technology and building random things that come to mind!
-
-  # When I'm not programming, I enjoy photography and running!  
+# i am a high school senior passionate about all things coding and apple hardware/software systems.
 
 ```
 <br>
 <br>
 
-## ☕️  Skills:
+## 🔨  Tech Stack
 
 ```bash
-$ initiate skills
+$ initiate tech stack
 
-# [===========================] (100%)
+# [===========================] (87.50%)
 
-> Frontend  💻
+> Languages
 
-  # HTML
-  # CSS
-  # JavaScript
-  # TypeScript
-  # Swift
-
-
-> Backend  🔧
-
-  # Node.js
-  # Java
-  # Python
+  # html/css/js
+  # typeScript
+  # swift
+  # javaScript
+  # java
+  # python
 
 
-> Technologies & Frameworks  🧑‍💻
+>  frameworks 
 
-  # React
-  # Tailwind
-  # SwiftUI
-  # UIKit
-  # Node.js
-  # Flask
+  # react
+  # tailwind
+  # swiftUI
+  # uikit
+  # node.js
+  # flask
+
+
+>  tools
+  
+  #   xcode
+  # vscode
+  # github
 
 ```
 
 <br>
 <br>
 
-## 🧑‍💻 Current Work
+## 🖥️  what i'm up to
 
 ```bash
 
-# wmata transit app
+# building a dc transit navigation app in swift
 
-```
-<br>
-</br>
-
-## 🔨 Tools
-
-```bash
-
-# xcode  
-
-# vscode
-
-# github
+# exploring ml
 
 ```
 <br>
