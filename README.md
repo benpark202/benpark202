@@ -3,9 +3,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <h1 align="center">Hi, I'm Ben </h1>
 <h3 align="center">⚙️ Full stack developer and web designer 🖌️</h3>
 </p>
