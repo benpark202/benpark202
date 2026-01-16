@@ -25,7 +25,7 @@ $ initiate about
 
 ```bash
 
-# building a dc transit navigation app in swift
+# building matcha, a platform to manage your life
 
 # exploring ml
 
