@@ -17,6 +17,20 @@ $ initiate about
 # i am a high school senior passionate about all things coding and apple hardware/software systems.
 
 ```
+
+<br>
+<br>
+
+## 🖥️  what i'm up to
+
+```bash
+
+# building a dc transit navigation app in swift
+
+# exploring ml
+
+```
+
 <br>
 <br>
 
@@ -51,19 +65,6 @@ $ initiate tech stack
   #   xcode
   # vscode
   # github
-
-```
-
-<br>
-<br>
-
-## 🖥️  what i'm up to
-
-```bash
-
-# building a dc transit navigation app in swift
-
-# exploring ml
 
 ```
 <br>
