@@ -34,7 +34,7 @@ $ initiate about
 <br>
 <br>
 
-## 🔨  Tech Stack
+## 🔨  tech stack
 
 ```bash
 $ initiate tech stack
