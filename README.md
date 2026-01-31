@@ -25,7 +25,7 @@ $ initiate about
 
 ```bash
 
-# building matcha, a platform to manage your life
+# building whisk, a platform to manage your life
 
 # exploring ml
 
