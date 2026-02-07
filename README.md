@@ -1,4 +1,4 @@
-![Banner](https://github.com/benpark202/benpark202/blob/main/Banner.png?raw=true)
+![Banner](https://github.com/benpark202/benpark202/blob/main/bannerNew.png?raw=true)
 <br>
 <br>
 <br>
