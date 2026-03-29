@@ -65,6 +65,8 @@ $ initiate tech stack
   #   xcode
   # vscode
   # github
+  # codex
+  # claude code 🦀
 
 ```
 <br>
