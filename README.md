@@ -1,4 +1,8 @@
-![Banner](https://github.com/benpark202/benpark202/blob/main/bannerNew.png?raw=true)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/benpark202/benpark202/blob/main/image.png?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/benpark202/benpark202/blob/main/image-2.png?raw=true">
+  <img alt="Description" src="https://github.com/benpark202/benpark202/blob/main/image.png?raw=true">
+</picture>
 <br>
 <br>
 <br>
@@ -8,20 +12,7 @@
 </p>
 <br>
 
-```bash
-
-$ initiate about
-
-# [========================----] (87.50%)
-
-# i am a high school senior passionate about all things coding and apple hardware/software systems.
-
-```
-
-<br>
-<br>
-
-## 🖥️  what i'm up to
+## 🖥️  current projects
 
 ```bash
 
