@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/benpark202/benpark202/blob/main/image.png?raw=true">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/benpark202/benpark202/blob/main/image-2.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/benpark202/benpark202/blob/main/image-3.png?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/benpark202/benpark202/blob/main/image-4.png?raw=true">
   <img alt="Description" src="https://github.com/benpark202/benpark202/blob/main/image.png?raw=true">
 </picture>
 <br>
