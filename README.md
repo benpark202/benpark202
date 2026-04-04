@@ -6,7 +6,6 @@
 <br>
 <br>
 <br>
-<br>
 <h1 align="center">👋 hi, i'm ben~.</h1>
 <h3 align="center">full stack developer and web designer </h3>
 </p>
