@@ -7,16 +7,16 @@
 <br>
 <br>
 <br>
-<h1 align="center">🪴 hi, i'm ben~.</h1>
-<h3 align="center">🌿  full stack developer and web designer  🌿</h3>
+<h1 align="center">🌿 hi, i'm ben~.👋</h1>
+<h3 align="center">full stack developer and web designer </h3>
 </p>
 <br>
 
-## 🖥️  current projects
+## 🖥️  recent projects
 
 ```bash
 
-# beta 
+> melanoma (https://github.com/benpark202/melanoma) 
 ```
 
 <br>
@@ -50,12 +50,17 @@ $ initiate tech stack
 
 >  tools
   
-  #   xcode
+  # xcode
   # vscode
   # github
-  # codex
+  # codex _/
   # claude code 🦀
 
 ```
 <br>
 </br>
+<div align="center">
+
+## [linkedin](https://linkedin.com/in/benjajpark) · [instagram](https://instagram.com/bpa202) · [website](https://benpark.vercel.app)
+
+</div>
