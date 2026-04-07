@@ -11,16 +11,7 @@
 </p>
 <br>
 
-## 🖥️  recent projects
-
-```bash
-
-> melanoma (https://github.com/benpark202/melanoma) 
-```
-
-<br>
-
-## 🔨  tech stack
+## 🔨 stack
 
 ```bash
 $ initiate tech stack
