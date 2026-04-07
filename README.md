@@ -30,8 +30,8 @@ $ initiate tech stack
 >  frameworks 
 
   # node.js
+  # express
   # swiftui
-  # uikit
   # react
   # flask
   # tailwind
@@ -39,9 +39,9 @@ $ initiate tech stack
 
 >  tools
   
-  # xcode
-  # vscode
   # github
+  # vscode
+  # xcode
   # codex _/
   # claude code 🦀
 
