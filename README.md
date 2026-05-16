@@ -19,7 +19,6 @@ $ initiate tech stack
 # [============================] (100.00%)
 
 >  languages
-
   # html/css/js
   # typescript
   # swift
@@ -28,7 +27,6 @@ $ initiate tech stack
 
 
 >  frameworks 
-
   # node.js
   # express
   # swiftui
@@ -38,7 +36,6 @@ $ initiate tech stack
 
 
 >  tools
-  
   # github
   # vscode
   # xcode
