@@ -46,6 +46,6 @@ $ initiate tech stack
 <br>
 <div align="center">
 
-## [linkedin](https://linkedin.com/in/benjajpark) · [instagram](https://instagram.com/bpa202) · [website](https://benpark.dev)
+## [linkedin](https://linkedin.com/in/benjajpark) · [website](https://benpark.dev)
 
 </div>
