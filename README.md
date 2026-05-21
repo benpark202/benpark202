@@ -10,7 +10,7 @@
 </p>
 <br>
 
-### 🔨 my skills
+### 📚 stack
 
 ```bash
 $ initiate tech stack
