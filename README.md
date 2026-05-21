@@ -10,7 +10,7 @@
 </p>
 <br>
 
-## 🔨 stack
+### 🔨 my skills
 
 ```bash
 $ initiate tech stack
@@ -24,7 +24,6 @@ $ initiate tech stack
   # java
   # python
 
-
 >  frameworks 
   # node.js
   # express
@@ -32,7 +31,6 @@ $ initiate tech stack
   # react
   # flask
   # tailwind
-
 
 >  tools
   # github
@@ -45,6 +43,6 @@ $ initiate tech stack
 <br>
 <div align="center">
 
-## [linkedin](https://linkedin.com/in/benjajpark) · [website](https://benpark.dev)
+### [linkedin](https://linkedin.com/in/benjajpark) · [website](https://benpark.dev)
 
 </div>
