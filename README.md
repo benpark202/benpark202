@@ -6,38 +6,45 @@
 <br>
 <br>
 <br>
-<h1 align="center">👋 hi, i'm benjamin~.</h1>
+<h1 align="center">👋 Hi, I'm Ben</h1>
 </p>
 <br>
 
 ### 📚 stack
 
 ```bash
-$ initiate tech stack
+$ dev init
 
-# [============================] (100.00%)
+> Initializing development environment...
 
->  languages
-  # html/css/js
-  # typescript
-  # swift
-  # java
-  # python
+────────────────────────────────────
 
->  frameworks 
-  # node.js
-  # express
-  # swiftui
-  # react
-  # flask
-  # tailwind
+>  Languages
+  # HTML/CSS/JS
+  # Typescript
+  # Swift
+  # Java
+  # Python
 
->  tools
-  # github
-  # vscode
-  # xcode
-  # codex _/
-  # claude code 🦀
+>  Frameworks 
+  # Node.js
+  # Express
+  # SwiftUI
+  # React
+  # Flask
+  # Tailwind
+  # Django
+
+>  Tools
+  # Github
+  # VSCode
+  # Xcode
+  # Codex
+  # Claude Code
+
+────────────────────────────────────
+
+✓ Stack ready
 
 ```
 <br>
