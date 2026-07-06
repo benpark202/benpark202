@@ -35,13 +35,6 @@ $ dev init
   # Tailwind
   # Django
 
->  Tools
-  # Github
-  # VSCode
-  # Xcode
-  # Codex
-  # Claude Code
-
 ────────────────────────────────────
 
 ✓ Stack ready
