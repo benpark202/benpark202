@@ -10,8 +10,6 @@
 </p>
 <br>
 
-### 📚 stack
-
 ```bash
 $ dev init
 
