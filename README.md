@@ -13,7 +13,7 @@
 ```bash
 $ dev init
 
-> Initializing development environment...
+> Initializing development stats...
 
 ────────────────────────────────────
 
