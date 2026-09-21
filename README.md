@@ -18,11 +18,11 @@ $ dev init
 ────────────────────────────────────
 
 >  Languages
+  # Python
+  # Java
   # HTML/CSS/JS
   # Typescript
   # Swift
-  # Java
-  # Python
 
 >  Frameworks 
   # Node.js
