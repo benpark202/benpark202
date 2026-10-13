@@ -35,7 +35,7 @@ $ dev init
 
 ────────────────────────────────────
 
-✓ Stack ready
+STACK READY
 
 ```
 <br>
