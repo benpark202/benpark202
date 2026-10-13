@@ -17,14 +17,14 @@ $ dev init
 
 ────────────────────────────────────
 
->  Languages
+>  LANGUAGES
   # Python
   # Java
   # HTML/CSS/JS
   # Typescript
   # Swift
 
->  Frameworks 
+>  FRAMEWORKS 
   # Node.js
   # Express
   # SwiftUI
