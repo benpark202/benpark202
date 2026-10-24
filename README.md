@@ -11,12 +11,6 @@
 <br>
 
 ```bash
-$ dev init
-
-> INITIALIZING DEVELOPER STATS...
-
-────────────────────────────────────
-
 >  LANGUAGES
   # Python
   # Java
@@ -32,10 +26,6 @@ $ dev init
   # Flask
   # Tailwind
   # Django
-
-────────────────────────────────────
-
-STACK READY
 
 ```
 <br>
