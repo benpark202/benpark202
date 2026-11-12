@@ -6,31 +6,14 @@
 <br>
 <br>
 <br>
-<h1 align="center">i'm ben</h1>
-</p>
+<h1 align="center">Hi there, I'm Ben</h1>
 <br>
 
 ```bash
->  LANGUAGES
-  # Python
-  # Java
-  # HTML/CSS/JS
-  # Typescript
-  # Swift
+$ dev init
 
->  FRAMEWORKS 
-  # Node.js
-  # Express
-  # SwiftUI
-  # React
-  # Flask
-  # Tailwind
-  # Django
+>  Languages
+  # HTML/CSS, TS/JS Python, Java, Swift
 
-```
-<br>
-<div align="center">
-
-### [linkedin](https://linkedin.com/in/benjajpark) · [website](https://benpark.dev)
-
-</div>
+>  Frameworks 
+  # Node.js, React, Flask, Vite, Django, Matplotlib
