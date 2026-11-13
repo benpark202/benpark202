@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/benpark202/benpark202/blob/main/Banner_2.0.png?raw=true">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/benpark202/benpark202/blob/main/Banner_2.0.png?raw=true">
-  <img alt="Description" src="https://github.com/benpark202/benpark202/blob/main/Banner_2.0.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/benpark202/benpark202/blob/main/Banner_Official.png?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/benpark202/benpark202/blob/main/Banner_Official.png?raw=true">
+  <img alt="Description" src="https://github.com/benpark202/benpark202/blob/main/Banner_Official.png?raw=true">
 </picture>
 <br>
 <br>
