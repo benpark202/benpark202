@@ -6,7 +6,7 @@
 <br>
 <br>
 <br>
-<h1 align="center">Hi there, I'm Ben</h1>
+<h1 align="center">👋  Hi there, I'm Ben</h1>
 <br>
 <br>
 
