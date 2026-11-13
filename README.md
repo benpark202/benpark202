@@ -8,15 +8,14 @@
 <br>
 <h1 align="center">Hi there, I'm Ben</h1>
 <br>
+<br>
 
 ```bash
 $ dev init
 
->  Languages
+>  LANGUAGES
   # HTML/CSS, TS/JS Python, Java, Swift
 
->  Frameworks 
+>  FRAMEWORKS 
   # Node.js, React, Flask, Vite, Django, Matplotlib
-
-> Current Project
-  # Wayvilo
+```
